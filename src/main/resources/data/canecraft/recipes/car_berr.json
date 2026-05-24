@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EAE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "canecraft:caramel"
+    },
+    "A": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "canecraft:car_berr"
+  }
+}

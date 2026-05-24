@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "canecraft:block/stem_block"
+    }
+  }
+}

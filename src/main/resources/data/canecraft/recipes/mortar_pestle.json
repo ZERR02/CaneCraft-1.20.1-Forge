@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
+  "pattern": [
+    "  s",
+    "ese",
+    " e "
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:oak_planks"
+    },
+    "s": {
+      "item": "canecraft:cobble_stick"
+    }
+  },
+  "ingredients": [],
+  "result": {
+    "item": "canecraft:mortar_pestle",
+    "count": 1
+  }
+}

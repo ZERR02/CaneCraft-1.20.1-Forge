@@ -1,0 +1,29 @@
+{
+  "item.canecraft.bagasse" : "Пучок багассы",
+  "item.canecraft.stem" : "Стебель сахарного тростника",
+  "item.canecraft.stem_stick" : "Тростниковая палка",
+  "block.canecraft.stem_block" : "Блок тростника",
+  "item.canecraft.mortar_pestle" : "Ступка и пестик",
+  "item.canecraft.cane_juice" : "Бутылочка тростникового сока",
+  "item.canecraft.cobble_stick" : "Палка из булыжника",
+  "item.canecraft.cane_syrup" : "Бутылочка тростникового сиропа",
+  "item.canecraft.caramel" : "Горячая карамель",
+  "item.canecraft.car_apple" : "Карамельное яблоко",
+  "item.canecraft.car_berr" : "Ягоды в карамеле",
+  "item.canecraft.cane_sword" : "Меч из тростника",
+  "item.canecraft.cane_axe" : "Топор из тростника",
+  "item.canecraft.cane_shovel" : "Лопата из тростника",
+  "item.canecraft.cane_hoe" : "Мотыга из тростника",
+  "item.canecraft.cane_pickaxe" : "Кирка из тростника",
+  "item.canecraft.cane_helmet" : "Шлем из тростника",
+  "item.canecraft.cane_chestplate" : "Нагрудник из тростника",
+  "item.canecraft.cane_leggings" : "Поножи из тростника",
+  "item.canecraft.cane_boots" : "Ботинки из тростника",
+  "effect.canecraft.sugar_overload" : "Приторный шок",
+
+
+  "creativetab.canecraft.canecraft_items_tab" : "Предметы CaneCraft",
+  "creativetab.canecraft.canecraft_blocks_tab" : "Блоки CaneCraft",
+  "creativetab.canecraft.canecraft_foods_tab" : "Еда CaneCraft",
+  "creativetab.canecraft.canecraft_equips_tab" : "Экипировка CaneCraft"
+}

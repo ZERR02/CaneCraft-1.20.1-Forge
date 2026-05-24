@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "building",
+  "pattern": [
+    "eee",
+    "eee",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "canecraft:stem_block",
+    "count": 1
+  }
+}

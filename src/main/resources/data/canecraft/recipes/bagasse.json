@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "misc",
+  "pattern": [],
+  "key": {},
+  "ingredients": [
+    {
+      "item": "canecraft:stem"
+    },
+    {
+      "item": "canecraft:mortar_pestle"
+    }
+  ],
+  "result": {
+    "item": "canecraft:bagasse",
+    "count": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "equipment",
+  "pattern": [
+    " E ",
+    " E ",
+    " A "
+  ],
+  "key": {
+    "E": {
+      "item": "canecraft:stem"
+    },
+    "A": {
+      "item": "canecraft:stem_stick"
+    }
+  },
+  "result": {
+    "item": "canecraft:cane_sword",
+    "count": 1
+  }
+}

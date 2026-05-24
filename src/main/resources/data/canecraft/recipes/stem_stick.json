@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "canecraft:stem"
+    }
+  },
+  "result": {
+    "item": "canecraft:stem_stick",
+    "count": 4
+  }
+}
