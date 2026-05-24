@@ -24,7 +24,7 @@ public class ModFoodProperties {
 
     public static final FoodProperties SYRUP = new FoodProperties.Builder()
             .nutrition(4)
-            .saturationMod(6.0f)
+            .saturationMod(2.0f)
             .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 200, 0), 1f)
             .effect(() -> new MobEffectInstance(ModEffects.SUGAR_OVERLOAD.get(), 200, 0), 1f)
             .alwaysEat()
@@ -33,21 +33,21 @@ public class ModFoodProperties {
 
     public static final FoodProperties CARAMEL = new FoodProperties.Builder()
             .nutrition(1)
-            .saturationMod(2.0f)
+            .saturationMod(1.2f)
             .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 10, 0), 1f)
             .effect(() -> new MobEffectInstance(ModEffects.SUGAR_OVERLOAD.get(), 40, 0), 1f)
             .build();
 
     public static final FoodProperties CAR_APPLE = new FoodProperties.Builder()
             .nutrition(2)
-            .saturationMod(4.0f)
+            .saturationMod(1.3f)
             .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 2), 1f)
             .build();
 
     // поменять
     public static final FoodProperties CAR_BERR = new FoodProperties.Builder()
-            .nutrition(4)
-            .saturationMod(7.0f)
+            .nutrition(5)
+            .saturationMod(1.0f)
             .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 2), 1f)
             .build();
 }

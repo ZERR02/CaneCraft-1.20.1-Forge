@@ -16,12 +16,12 @@
         {
           "type": "minecraft:item",
           "name": "canecraft:stem",
-          "weight": 40
+          "weight": 10
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 60
+          "weight": 90
         }
       ]
     },

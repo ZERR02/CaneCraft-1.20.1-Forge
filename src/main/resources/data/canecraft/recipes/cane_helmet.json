@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "equipment",
+  "pattern": [
+    "TBT",
+    "T T"
+  ],
+  "key": {
+    "B": {
+      "item": "canecraft:bagasse"
+    },
+    "T": {
+      "item": "canecraft:stem"
+    }
+  },
+  "result": {
+    "item": "canecraft:cane_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "equipment",
+  "pattern": [
+    "TTT",
+    "B B",
+    "T T"
+  ],
+  "key": {
+    "B": {
+      "item": "canecraft:bagasse"
+    },
+    "T": {
+      "item": "canecraft:stem"
+    }
+  },
+  "result": {
+    "item": "canecraft:cane_leggings",
+    "count": 1
+  }
+}

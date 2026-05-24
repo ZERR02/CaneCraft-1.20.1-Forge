@@ -39,7 +39,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.CANE_AXE.get());
                         output.accept(ModItems.CANE_SHOVEL.get());
                         output.accept(ModItems.CANE_HOE.get());
-                        output.accept(ModItems.ROM.get());
+                        //output.accept(ModItems.ROM.get());
 
                     }).build());
 

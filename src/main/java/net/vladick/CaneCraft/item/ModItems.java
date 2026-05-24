@@ -65,21 +65,21 @@ public class ModItems {
     );
 
     public static final RegistryObject<Item> CANE_SWORD = ITEMS.register("cane_sword",
-            () -> new CaneSword(Tiers.WOOD,3, -2, new Item.Properties()));
+            () -> new CaneSword(Tiers.STONE,3, -2, new Item.Properties()));
 
     public static final RegistryObject<Item> CANE_AXE = ITEMS.register("cane_axe",
-            () -> new CaneAxe(Tiers.WOOD,5, -3.0f, new Item.Properties()));
+            () -> new CaneAxe(Tiers.STONE,5, -3.0f, new Item.Properties()));
 
     public static final RegistryObject<Item> CANE_SHOVEL = ITEMS.register("cane_shovel",
-            () -> new CaneShovel(Tiers.WOOD,2, -2f, new Item.Properties()));
+            () -> new CaneShovel(Tiers.STONE,2, -2f, new Item.Properties()));
 
 
     public static final RegistryObject<Item> CANE_PICKAXE = ITEMS.register("cane_pickaxe",
-            () -> new CanePickaxe(Tiers.WOOD,2, -2f, new Item.Properties()));
+            () -> new CanePickaxe(Tiers.STONE,2, -2f, new Item.Properties()));
 
 
     public static final RegistryObject<Item> CANE_HOE = ITEMS.register("cane_hoe",
-            () -> new CaneHoe(Tiers.WOOD,2, -2f, new Item.Properties()));
+            () -> new CaneHoe(Tiers.STONE,2, -2f, new Item.Properties()));
 
     public static final RegistryObject<Item> CANE_CHESTPLATE = ITEMS.register("cane_chestplate",
             () -> new ModArmorItem(ModArmorMaterials.CANE, ArmorItem.Type.CHESTPLATE, new Item.Properties()));
@@ -93,8 +93,8 @@ public class ModItems {
     public static final RegistryObject<Item> CANE_BOOTS = ITEMS.register("cane_boots",
             () -> new ModArmorItem(ModArmorMaterials.CANE, ArmorItem.Type.BOOTS, new Item.Properties()));
 
-    public static final RegistryObject<Item> ROM = ITEMS.register("rom",
-            () -> new Item(new Item.Properties().stacksTo(64)));
+    /*public static final RegistryObject<Item> ROM = ITEMS.register("rom",
+            () -> new Item(new Item.Properties().stacksTo(64))); */
 
 
     public static void register(IEventBus eventBus) {

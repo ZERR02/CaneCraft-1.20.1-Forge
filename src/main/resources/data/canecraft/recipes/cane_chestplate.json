@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "equipment",
+  "pattern": [
+    "T T",
+    "BTB",
+    "TTT"
+  ],
+  "key": {
+    "B": {
+      "item": "canecraft:bagasse"
+    },
+    "T": {
+      "item": "canecraft:stem"
+    }
+  },
+  "result": {
+    "item": "canecraft:cane_chestplate",
+    "count": 1
+  }
+}
