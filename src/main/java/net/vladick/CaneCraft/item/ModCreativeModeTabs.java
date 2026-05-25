@@ -28,7 +28,7 @@ public class ModCreativeModeTabs {
     public static final RegistryObject<CreativeModeTab> CANECRAFT_EQUIPS_TAB = CREATIVE_MODE_TABS.register("canecraft_equips_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.CANE_SWORD.get()))
                     .withTabsBefore(CANECRAFT_BLOCKS_TAB.getId())
-                    .title(Component.translatable("creativetab.canecraft.canecraft_blocks_tab"))
+                    .title(Component.translatable("creativetab.canecraft.canecraft_equips_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.CANE_HELMET.get());
                         output.accept(ModItems.CANE_CHESTPLATE.get());

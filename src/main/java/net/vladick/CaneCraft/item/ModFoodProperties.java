@@ -41,13 +41,13 @@ public class ModFoodProperties {
     public static final FoodProperties CAR_APPLE = new FoodProperties.Builder()
             .nutrition(2)
             .saturationMod(1.3f)
-            .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 2), 1f)
+            .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 0), 1f)
             .build();
 
     // поменять
     public static final FoodProperties CAR_BERR = new FoodProperties.Builder()
             .nutrition(5)
             .saturationMod(1.0f)
-            .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 2), 1f)
+            .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 150, 0), 1f)
             .build();
 }

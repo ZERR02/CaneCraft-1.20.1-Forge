@@ -46,7 +46,6 @@ public class CaneCraft
         modEventBus.addListener(this::addCreative);
 
         ModEffects.register(modEventBus);
-        context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)

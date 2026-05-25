@@ -22,7 +22,7 @@ public class CaneHoe extends HoeItem {
     public boolean mineBlock(ItemStack itemStack, Level level, BlockState state, BlockPos pos, LivingEntity miner){
         if(!level.isClientSide){
 
-            if(state.is(BlockTags.MINEABLE_WITH_SHOVEL)){
+            if(state.is(BlockTags.MINEABLE_WITH_HOE)){
                 miner.addEffect((new MobEffectInstance(MobEffects.DIG_SPEED, 30, 2)));
             }
         }
