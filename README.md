@@ -13,7 +13,7 @@
 
 ##  Trailer
 
-[![CaneCraft Trailer](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![CaneCraft Trailer](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID) (Not yet)
 
 ---
 
@@ -39,8 +39,8 @@
 
 | Platform | Link |
 |----------|------|
-| 🔸 **Modrinth** | [Download on Modrinth](https://modrinth.com/mod/your-mod-id) |
-| 🔸 **CurseForge** | [Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/your-mod-id) |
+| 🔸 **Modrinth** | [Download on Modrinth](https://modrinth.com/mod/your-mod-id) | (On moderation)
+| 🔸 **CurseForge** | [Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/your-mod-id) | (On moderation)
 
 
 ---
