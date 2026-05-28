@@ -40,7 +40,7 @@
 | Platform | Link |
 |----------|------|
 | 🔸 **Modrinth** | [Download on Modrinth](https://modrinth.com/mod/your-mod-id) | (On moderation)
-| 🔸 **CurseForge** | [Download on CurseForge]([https://www.curseforge.com/minecraft/mc-mods/your-mod-id](https://www.curseforge.com/minecraft/mc-mods/canecraft)) |
+| 🔸 **CurseForge** | [Download on CurseForge]((https://www.curseforge.com/minecraft/mc-mods/canecraft)) |
 
 
 ---
